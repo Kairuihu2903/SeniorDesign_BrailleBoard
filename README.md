@@ -26,3 +26,13 @@ here is an image of the webpage
 
 
 here are some images of the 3d Modeled container for the Braille Board
+
+
+![IMG_3429](https://github.com/Kairuihu2903/SeniorDesign_BrailleBoard/assets/78373343/0eb53a7e-af2b-4832-adbb-002d9161382a)
+
+
+![IMG_3428](https://github.com/Kairuihu2903/SeniorDesign_BrailleBoard/assets/78373343/4f2232b3-d8ae-4d33-8dc5-59a6f7f1b9fe)
+
+
+
+here is an image of the final result
